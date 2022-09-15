@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F8y8slHnD4f8R4oUEjsPuMxgHBGAX/HHdJjatXxhK78KF1U+tBVdHYiZQ7fHlEg6eqq7vRaId+eWYkZEpNf1GQ==",
+  "dgSpecHash": "YSIuxuh9r/0PKhqcUt6i2Tguwe3ZnW/TrY+nGjmvjPEQhwr838O14nEA4uKrWuuKLVOPr6JXaF2KGauZrSN2vA==",
   "success": true,
-  "projectFilePath": "/home/mert/Desktop/Project/ReCapProject5/ConsoleUI/ConsoleUI.csproj",
+  "projectFilePath": "/home/mert/Desktop/olk/ReCapProject/ConsoleUI/ConsoleUI.csproj",
   "expectedPackageFiles": [
     "/home/mert/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "/home/mert/.nuget/packages/microsoft.bcl.hashcode/1.1.1/microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

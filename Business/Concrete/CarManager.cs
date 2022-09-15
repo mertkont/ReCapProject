@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Linq.Expressions;
 using Business.Abstract;
+using Business.Constants;
 using Core.Utilities.Results;
 using DataAccess.Abstract;
 using DataAccess.Concrete.InMemory;
@@ -33,6 +34,17 @@ namespace Business.Concrete
         public IDataResult<List<CarDetail3Dto>> GetCars()
         {
             return new SuccessDataResult<List<CarDetail3Dto>>(_carDal.GetCars());
+        }
+
+        public IResult Add(Car car)
+        {
+            if (car.Description.Length < 2 && car.DailyPrice < 200)
+            {
+                return new ErrorResult(Messages.CarCannotAdd);
+            }
+
+            _carDal.Add(car);
+            return new SuccessResult(Messages.CarAdded);
         }
     }
 }
