@@ -1,0 +1,208 @@
+/home/mert/Desktop/Project/MyFinalProject/ConsoleUI/obj/Debug/netcoreapp3.1/ConsoleUI.csproj.AssemblyReference.cache
+/home/mert/Desktop/Project/MyFinalProject/ConsoleUI/obj/Debug/netcoreapp3.1/ConsoleUI.AssemblyInfoInputs.cache
+/home/mert/Desktop/Project/MyFinalProject/ConsoleUI/obj/Debug/netcoreapp3.1/ConsoleUI.AssemblyInfo.cs
+/home/mert/Desktop/Project/MyFinalProject/ConsoleUI/obj/Debug/netcoreapp3.1/ConsoleUI.csproj.CoreCompileInputs.cache
+C:/Users/Mert/Desktop/Dersler/Yazılım/C#/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/ConsoleUI.exe
+C:/Users/Mert/Desktop/Dersler/Yazılım/C#/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/ConsoleUI.deps.json
+C:/Users/Mert/Desktop/Dersler/Yazılım/C#/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/ConsoleUI.runtimeconfig.json
+C:/Users/Mert/Desktop/Dersler/Yazılım/C#/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/ConsoleUI.runtimeconfig.dev.json
+C:/Users/Mert/Desktop/Dersler/Yazılım/C#/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/ConsoleUI.dll
+C:/Users/Mert/Desktop/Dersler/Yazılım/C#/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/ConsoleUI.pdb
+C:/Users/Mert/Desktop/Dersler/Yazılım/C#/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/Business.dll
+C:/Users/Mert/Desktop/Dersler/Yazılım/C#/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/DataAccess.dll
+C:/Users/Mert/Desktop/Dersler/Yazılım/C#/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/Entities.dll
+C:/Users/Mert/Desktop/Dersler/Yazılım/C#/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/Business.pdb
+C:/Users/Mert/Desktop/Dersler/Yazılım/C#/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/DataAccess.pdb
+C:/Users/Mert/Desktop/Dersler/Yazılım/C#/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/Entities.pdb
+C:/Users/Mert/Desktop/Dersler/Yazılım/C#/MyFinalProject/ConsoleUI/obj/Debug/netcoreapp3.1/ConsoleUI.csproj.AssemblyReference.cache
+C:/Users/Mert/Desktop/Dersler/Yazılım/C#/MyFinalProject/ConsoleUI/obj/Debug/netcoreapp3.1/ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Mert/Desktop/Dersler/Yazılım/C#/MyFinalProject/ConsoleUI/obj/Debug/netcoreapp3.1/ConsoleUI.AssemblyInfoInputs.cache
+C:/Users/Mert/Desktop/Dersler/Yazılım/C#/MyFinalProject/ConsoleUI/obj/Debug/netcoreapp3.1/ConsoleUI.AssemblyInfo.cs
+C:/Users/Mert/Desktop/Dersler/Yazılım/C#/MyFinalProject/ConsoleUI/obj/Debug/netcoreapp3.1/ConsoleUI.csproj.CoreCompileInputs.cache
+C:/Users/Mert/Desktop/Dersler/Yazılım/C#/MyFinalProject/ConsoleUI/obj/Debug/netcoreapp3.1/ConsoleUI.csproj.CopyComplete
+C:/Users/Mert/Desktop/Dersler/Yazılım/C#/MyFinalProject/ConsoleUI/obj/Debug/netcoreapp3.1/ConsoleUI.dll
+C:/Users/Mert/Desktop/Dersler/Yazılım/C#/MyFinalProject/ConsoleUI/obj/Debug/netcoreapp3.1/ConsoleUI.pdb
+C:/Users/Mert/Desktop/Dersler/Yazılım/C#/MyFinalProject/ConsoleUI/obj/Debug/netcoreapp3.1/ConsoleUI.genruntimeconfig.cache
+/home/mert/Desktop/Project/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/ConsoleUI
+/home/mert/Desktop/Project/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/ConsoleUI.deps.json
+/home/mert/Desktop/Project/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/ConsoleUI.runtimeconfig.json
+/home/mert/Desktop/Project/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/ConsoleUI.runtimeconfig.dev.json
+/home/mert/Desktop/Project/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/ConsoleUI.dll
+/home/mert/Desktop/Project/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/ConsoleUI.pdb
+/home/mert/Desktop/Project/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/Business.dll
+/home/mert/Desktop/Project/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/DataAccess.dll
+/home/mert/Desktop/Project/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/Entities.dll
+/home/mert/Desktop/Project/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/Business.pdb
+/home/mert/Desktop/Project/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/DataAccess.pdb
+/home/mert/Desktop/Project/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/Entities.pdb
+/home/mert/Desktop/Project/MyFinalProject/ConsoleUI/obj/Debug/netcoreapp3.1/ConsoleUI.csproj.CopyComplete
+/home/mert/Desktop/Project/MyFinalProject/ConsoleUI/obj/Debug/netcoreapp3.1/ConsoleUI.dll
+/home/mert/Desktop/Project/MyFinalProject/ConsoleUI/obj/Debug/netcoreapp3.1/ConsoleUI.pdb
+/home/mert/Desktop/Project/MyFinalProject/ConsoleUI/obj/Debug/netcoreapp3.1/ConsoleUI.genruntimeconfig.cache
+/home/mert/Desktop/Project/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/home/mert/Desktop/Project/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/home/mert/Desktop/Project/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/mert/Desktop/Project/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/home/mert/Desktop/Project/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/mert/Desktop/Project/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/home/mert/Desktop/Project/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/mert/Desktop/Project/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/home/mert/Desktop/Project/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/home/mert/Desktop/Project/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/home/mert/Desktop/Project/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/mert/Desktop/Project/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/home/mert/Desktop/Project/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/home/mert/Desktop/Project/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/mert/Desktop/Project/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/home/mert/Desktop/Project/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/home/mert/Desktop/Project/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/home/mert/Desktop/Project/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/home/mert/Desktop/Project/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/home/mert/Desktop/Project/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/mert/Desktop/Project/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/home/mert/Desktop/Project/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/home/mert/Desktop/Project/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/mert/Desktop/Project/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/home/mert/Desktop/Project/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/mert/Desktop/Project/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/home/mert/Desktop/Project/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+/home/mert/Desktop/Project/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/home/mert/Desktop/Project/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/home/mert/Desktop/Project/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/home/mert/Desktop/Project/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/home/mert/Desktop/Project/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/home/mert/Desktop/Project/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/System.Security.Permissions.dll
+/home/mert/Desktop/Project/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/home/mert/Desktop/Project/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/home/mert/Desktop/Project/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/home/mert/Desktop/Project/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/home/mert/Desktop/Project/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/home/mert/Desktop/Project/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/home/mert/Desktop/Project/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/home/mert/Desktop/Project/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/mert/Desktop/Project/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/Core.dll
+/home/mert/Desktop/Project/MyFinalProject/ConsoleUI/bin/Debug/netcoreapp3.1/Core.pdb
+/home/mert/Desktop/Project/ReCapProject22 (copy)/ConsoleUI/bin/Debug/netcoreapp3.1/ConsoleUI
+/home/mert/Desktop/Project/ReCapProject22 (copy)/ConsoleUI/bin/Debug/netcoreapp3.1/ConsoleUI.deps.json
+/home/mert/Desktop/Project/ReCapProject22 (copy)/ConsoleUI/bin/Debug/netcoreapp3.1/ConsoleUI.runtimeconfig.json
+/home/mert/Desktop/Project/ReCapProject22 (copy)/ConsoleUI/bin/Debug/netcoreapp3.1/ConsoleUI.runtimeconfig.dev.json
+/home/mert/Desktop/Project/ReCapProject22 (copy)/ConsoleUI/bin/Debug/netcoreapp3.1/ConsoleUI.dll
+/home/mert/Desktop/Project/ReCapProject22 (copy)/ConsoleUI/bin/Debug/netcoreapp3.1/ConsoleUI.pdb
+/home/mert/Desktop/Project/ReCapProject22 (copy)/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/home/mert/Desktop/Project/ReCapProject22 (copy)/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/home/mert/Desktop/Project/ReCapProject22 (copy)/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/mert/Desktop/Project/ReCapProject22 (copy)/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/home/mert/Desktop/Project/ReCapProject22 (copy)/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/mert/Desktop/Project/ReCapProject22 (copy)/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/home/mert/Desktop/Project/ReCapProject22 (copy)/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/mert/Desktop/Project/ReCapProject22 (copy)/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/home/mert/Desktop/Project/ReCapProject22 (copy)/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/home/mert/Desktop/Project/ReCapProject22 (copy)/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/home/mert/Desktop/Project/ReCapProject22 (copy)/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/mert/Desktop/Project/ReCapProject22 (copy)/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/home/mert/Desktop/Project/ReCapProject22 (copy)/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/home/mert/Desktop/Project/ReCapProject22 (copy)/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/mert/Desktop/Project/ReCapProject22 (copy)/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/home/mert/Desktop/Project/ReCapProject22 (copy)/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/home/mert/Desktop/Project/ReCapProject22 (copy)/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/home/mert/Desktop/Project/ReCapProject22 (copy)/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/home/mert/Desktop/Project/ReCapProject22 (copy)/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/home/mert/Desktop/Project/ReCapProject22 (copy)/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/mert/Desktop/Project/ReCapProject22 (copy)/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/home/mert/Desktop/Project/ReCapProject22 (copy)/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/home/mert/Desktop/Project/ReCapProject22 (copy)/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/mert/Desktop/Project/ReCapProject22 (copy)/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/home/mert/Desktop/Project/ReCapProject22 (copy)/ConsoleUI/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/mert/Desktop/Project/ReCapProject22 (copy)/ConsoleUI/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/home/mert/Desktop/Project/ReCapProject22 (copy)/ConsoleUI/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+/home/mert/Desktop/Project/ReCapProject22 (copy)/ConsoleUI/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/home/mert/Desktop/Project/ReCapProject22 (copy)/ConsoleUI/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/home/mert/Desktop/Project/ReCapProject22 (copy)/ConsoleUI/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/home/mert/Desktop/Project/ReCapProject22 (copy)/ConsoleUI/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/home/mert/Desktop/Project/ReCapProject22 (copy)/ConsoleUI/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/home/mert/Desktop/Project/ReCapProject22 (copy)/ConsoleUI/bin/Debug/netcoreapp3.1/System.Security.Permissions.dll
+/home/mert/Desktop/Project/ReCapProject22 (copy)/ConsoleUI/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/home/mert/Desktop/Project/ReCapProject22 (copy)/ConsoleUI/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/home/mert/Desktop/Project/ReCapProject22 (copy)/ConsoleUI/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/home/mert/Desktop/Project/ReCapProject22 (copy)/ConsoleUI/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/home/mert/Desktop/Project/ReCapProject22 (copy)/ConsoleUI/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/home/mert/Desktop/Project/ReCapProject22 (copy)/ConsoleUI/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/home/mert/Desktop/Project/ReCapProject22 (copy)/ConsoleUI/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/home/mert/Desktop/Project/ReCapProject22 (copy)/ConsoleUI/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/mert/Desktop/Project/ReCapProject22 (copy)/ConsoleUI/bin/Debug/netcoreapp3.1/Business.dll
+/home/mert/Desktop/Project/ReCapProject22 (copy)/ConsoleUI/bin/Debug/netcoreapp3.1/DataAccess.dll
+/home/mert/Desktop/Project/ReCapProject22 (copy)/ConsoleUI/bin/Debug/netcoreapp3.1/Entities.dll
+/home/mert/Desktop/Project/ReCapProject22 (copy)/ConsoleUI/bin/Debug/netcoreapp3.1/Business.pdb
+/home/mert/Desktop/Project/ReCapProject22 (copy)/ConsoleUI/bin/Debug/netcoreapp3.1/DataAccess.pdb
+/home/mert/Desktop/Project/ReCapProject22 (copy)/ConsoleUI/bin/Debug/netcoreapp3.1/Entities.pdb
+/home/mert/Desktop/Project/ReCapProject22 (copy)/ConsoleUI/obj/Debug/netcoreapp3.1/ConsoleUI.csproj.AssemblyReference.cache
+/home/mert/Desktop/Project/ReCapProject22 (copy)/ConsoleUI/obj/Debug/netcoreapp3.1/ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+/home/mert/Desktop/Project/ReCapProject22 (copy)/ConsoleUI/obj/Debug/netcoreapp3.1/ConsoleUI.AssemblyInfoInputs.cache
+/home/mert/Desktop/Project/ReCapProject22 (copy)/ConsoleUI/obj/Debug/netcoreapp3.1/ConsoleUI.AssemblyInfo.cs
+/home/mert/Desktop/Project/ReCapProject22 (copy)/ConsoleUI/obj/Debug/netcoreapp3.1/ConsoleUI.csproj.CoreCompileInputs.cache
+/home/mert/Desktop/Project/ReCapProject22 (copy)/ConsoleUI/obj/Debug/netcoreapp3.1/ConsoleUI.csproj.CopyComplete
+/home/mert/Desktop/Project/ReCapProject22 (copy)/ConsoleUI/obj/Debug/netcoreapp3.1/ConsoleUI.dll
+/home/mert/Desktop/Project/ReCapProject22 (copy)/ConsoleUI/obj/Debug/netcoreapp3.1/ConsoleUI.pdb
+/home/mert/Desktop/Project/ReCapProject22 (copy)/ConsoleUI/obj/Debug/netcoreapp3.1/ConsoleUI.genruntimeconfig.cache
+/home/mert/Desktop/Project/ReCapProject2/ConsoleUI/bin/Debug/netcoreapp3.1/ConsoleUI
+/home/mert/Desktop/Project/ReCapProject2/ConsoleUI/bin/Debug/netcoreapp3.1/ConsoleUI.deps.json
+/home/mert/Desktop/Project/ReCapProject2/ConsoleUI/bin/Debug/netcoreapp3.1/ConsoleUI.runtimeconfig.json
+/home/mert/Desktop/Project/ReCapProject2/ConsoleUI/bin/Debug/netcoreapp3.1/ConsoleUI.runtimeconfig.dev.json
+/home/mert/Desktop/Project/ReCapProject2/ConsoleUI/bin/Debug/netcoreapp3.1/ConsoleUI.dll
+/home/mert/Desktop/Project/ReCapProject2/ConsoleUI/bin/Debug/netcoreapp3.1/ConsoleUI.pdb
+/home/mert/Desktop/Project/ReCapProject2/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/home/mert/Desktop/Project/ReCapProject2/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/home/mert/Desktop/Project/ReCapProject2/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/mert/Desktop/Project/ReCapProject2/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/home/mert/Desktop/Project/ReCapProject2/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/mert/Desktop/Project/ReCapProject2/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/home/mert/Desktop/Project/ReCapProject2/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/mert/Desktop/Project/ReCapProject2/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/home/mert/Desktop/Project/ReCapProject2/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/home/mert/Desktop/Project/ReCapProject2/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/home/mert/Desktop/Project/ReCapProject2/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/mert/Desktop/Project/ReCapProject2/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/home/mert/Desktop/Project/ReCapProject2/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/home/mert/Desktop/Project/ReCapProject2/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/mert/Desktop/Project/ReCapProject2/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/home/mert/Desktop/Project/ReCapProject2/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/home/mert/Desktop/Project/ReCapProject2/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/home/mert/Desktop/Project/ReCapProject2/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/home/mert/Desktop/Project/ReCapProject2/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/home/mert/Desktop/Project/ReCapProject2/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/mert/Desktop/Project/ReCapProject2/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/home/mert/Desktop/Project/ReCapProject2/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/home/mert/Desktop/Project/ReCapProject2/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/mert/Desktop/Project/ReCapProject2/ConsoleUI/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/home/mert/Desktop/Project/ReCapProject2/ConsoleUI/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/mert/Desktop/Project/ReCapProject2/ConsoleUI/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/home/mert/Desktop/Project/ReCapProject2/ConsoleUI/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+/home/mert/Desktop/Project/ReCapProject2/ConsoleUI/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/home/mert/Desktop/Project/ReCapProject2/ConsoleUI/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/home/mert/Desktop/Project/ReCapProject2/ConsoleUI/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/home/mert/Desktop/Project/ReCapProject2/ConsoleUI/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/home/mert/Desktop/Project/ReCapProject2/ConsoleUI/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/home/mert/Desktop/Project/ReCapProject2/ConsoleUI/bin/Debug/netcoreapp3.1/System.Security.Permissions.dll
+/home/mert/Desktop/Project/ReCapProject2/ConsoleUI/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/home/mert/Desktop/Project/ReCapProject2/ConsoleUI/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/home/mert/Desktop/Project/ReCapProject2/ConsoleUI/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/home/mert/Desktop/Project/ReCapProject2/ConsoleUI/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/home/mert/Desktop/Project/ReCapProject2/ConsoleUI/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/home/mert/Desktop/Project/ReCapProject2/ConsoleUI/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/home/mert/Desktop/Project/ReCapProject2/ConsoleUI/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/home/mert/Desktop/Project/ReCapProject2/ConsoleUI/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/mert/Desktop/Project/ReCapProject2/ConsoleUI/bin/Debug/netcoreapp3.1/Business.dll
+/home/mert/Desktop/Project/ReCapProject2/ConsoleUI/bin/Debug/netcoreapp3.1/DataAccess.dll
+/home/mert/Desktop/Project/ReCapProject2/ConsoleUI/bin/Debug/netcoreapp3.1/Entities.dll
+/home/mert/Desktop/Project/ReCapProject2/ConsoleUI/bin/Debug/netcoreapp3.1/Business.pdb
+/home/mert/Desktop/Project/ReCapProject2/ConsoleUI/bin/Debug/netcoreapp3.1/DataAccess.pdb
+/home/mert/Desktop/Project/ReCapProject2/ConsoleUI/bin/Debug/netcoreapp3.1/Entities.pdb
+/home/mert/Desktop/Project/ReCapProject2/ConsoleUI/obj/Debug/netcoreapp3.1/ConsoleUI.csproj.AssemblyReference.cache
+/home/mert/Desktop/Project/ReCapProject2/ConsoleUI/obj/Debug/netcoreapp3.1/ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+/home/mert/Desktop/Project/ReCapProject2/ConsoleUI/obj/Debug/netcoreapp3.1/ConsoleUI.AssemblyInfoInputs.cache
+/home/mert/Desktop/Project/ReCapProject2/ConsoleUI/obj/Debug/netcoreapp3.1/ConsoleUI.AssemblyInfo.cs
+/home/mert/Desktop/Project/ReCapProject2/ConsoleUI/obj/Debug/netcoreapp3.1/ConsoleUI.csproj.CoreCompileInputs.cache
+/home/mert/Desktop/Project/ReCapProject2/ConsoleUI/obj/Debug/netcoreapp3.1/ConsoleUI.csproj.CopyComplete
+/home/mert/Desktop/Project/ReCapProject2/ConsoleUI/obj/Debug/netcoreapp3.1/ConsoleUI.dll
+/home/mert/Desktop/Project/ReCapProject2/ConsoleUI/obj/Debug/netcoreapp3.1/ConsoleUI.pdb
+/home/mert/Desktop/Project/ReCapProject2/ConsoleUI/obj/Debug/netcoreapp3.1/ConsoleUI.genruntimeconfig.cache

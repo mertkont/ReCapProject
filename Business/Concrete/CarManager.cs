@@ -4,6 +4,7 @@ using Business.Abstract;
 using DataAccess.Abstract;
 using DataAccess.Concrete.InMemory;
 using Entities.Concrete;
+using System;
 
 namespace Business.Concrete
 {
@@ -24,6 +25,18 @@ namespace Business.Concrete
         public List<Car> GetById(int id)
         {
             return _carDal.GetById(c => c.Id == id, id);
+        }
+
+        public void Add(Car car)
+        {
+            if (car.Description.Length < 2 && car.DailyPrice < 0)
+            {
+                Console.WriteLine("What're you doin'?");
+            }
+            else
+            {
+                _carDal.Add(car);
+            }
         }
     }
 }

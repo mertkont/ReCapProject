@@ -4,6 +4,7 @@ using System.Linq;
 using System.Linq.Expressions;
 using DataAccess.Abstract;
 using Entities.Concrete;
+using Entities.DTOs;
 
 namespace DataAccess.Concrete.InMemory
 {
@@ -34,7 +35,7 @@ namespace DataAccess.Concrete.InMemory
         {
             return _cars.Where(c => c.Id == id).ToList();
         }
-
+        
         public Car Get(Expression<Func<Car, bool>> filter)
         {
             throw new NotImplementedException();
