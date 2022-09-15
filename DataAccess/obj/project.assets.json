@@ -5690,11 +5690,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/mert/Desktop/hello/DataAccess/DataAccess.csproj",
+      "projectUniqueName": "/home/mert/Desktop/Project/ReCapProject5/DataAccess/DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "/home/mert/Desktop/hello/DataAccess/DataAccess.csproj",
+      "projectPath": "/home/mert/Desktop/Project/ReCapProject5/DataAccess/DataAccess.csproj",
       "packagesPath": "/home/mert/.nuget/packages/",
-      "outputPath": "/home/mert/Desktop/hello/DataAccess/obj/",
+      "outputPath": "/home/mert/Desktop/Project/ReCapProject5/DataAccess/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/mert/.nuget/NuGet/NuGet.Config"
@@ -5709,11 +5709,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "/home/mert/Desktop/hello/Core/Core.csproj": {
-              "projectPath": "/home/mert/Desktop/hello/Core/Core.csproj"
+            "/home/mert/Desktop/Project/ReCapProject5/Core/Core.csproj": {
+              "projectPath": "/home/mert/Desktop/Project/ReCapProject5/Core/Core.csproj"
             },
-            "/home/mert/Desktop/hello/Entities/Entities.csproj": {
-              "projectPath": "/home/mert/Desktop/hello/Entities/Entities.csproj"
+            "/home/mert/Desktop/Project/ReCapProject5/Entities/Entities.csproj": {
+              "projectPath": "/home/mert/Desktop/Project/ReCapProject5/Entities/Entities.csproj"
             }
           }
         }

@@ -5729,11 +5729,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/mert/Desktop/hello/ConsoleUI/ConsoleUI.csproj",
+      "projectUniqueName": "/home/mert/Desktop/Project/ReCapProject5/ConsoleUI/ConsoleUI.csproj",
       "projectName": "ConsoleUI",
-      "projectPath": "/home/mert/Desktop/hello/ConsoleUI/ConsoleUI.csproj",
+      "projectPath": "/home/mert/Desktop/Project/ReCapProject5/ConsoleUI/ConsoleUI.csproj",
       "packagesPath": "/home/mert/.nuget/packages/",
-      "outputPath": "/home/mert/Desktop/hello/ConsoleUI/obj/",
+      "outputPath": "/home/mert/Desktop/Project/ReCapProject5/ConsoleUI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/mert/.nuget/NuGet/NuGet.Config"
@@ -5748,14 +5748,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "/home/mert/Desktop/hello/Business/Business.csproj": {
-              "projectPath": "/home/mert/Desktop/hello/Business/Business.csproj"
+            "/home/mert/Desktop/Project/ReCapProject5/Business/Business.csproj": {
+              "projectPath": "/home/mert/Desktop/Project/ReCapProject5/Business/Business.csproj"
             },
-            "/home/mert/Desktop/hello/DataAccess/DataAccess.csproj": {
-              "projectPath": "/home/mert/Desktop/hello/DataAccess/DataAccess.csproj"
+            "/home/mert/Desktop/Project/ReCapProject5/DataAccess/DataAccess.csproj": {
+              "projectPath": "/home/mert/Desktop/Project/ReCapProject5/DataAccess/DataAccess.csproj"
             },
-            "/home/mert/Desktop/hello/Entities/Entities.csproj": {
-              "projectPath": "/home/mert/Desktop/hello/Entities/Entities.csproj"
+            "/home/mert/Desktop/Project/ReCapProject5/Entities/Entities.csproj": {
+              "projectPath": "/home/mert/Desktop/Project/ReCapProject5/Entities/Entities.csproj"
             }
           }
         }

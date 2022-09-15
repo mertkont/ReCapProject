@@ -2,6 +2,7 @@
 using System.IO.Enumeration;
 using Business.Abstract;
 using Business.Concrete;
+using Business.Constants;
 using DataAccess.Concrete.EntityFramework;
 using DataAccess.Concrete.InMemory;
 using Entities.Concrete;
@@ -29,6 +30,25 @@ namespace ConsoleUI
             // UpdateCommands();
 
             // TripleTableJoin();
+
+            RentCar();
+        }
+
+        private static void RentCar()
+        {
+            RentalManager rentalManager = new RentalManager(new EfRentalDal());
+            try
+            {
+                rentalManager.Add(new Rental
+                {
+                    CarId = 2, CustomerId = 3, RentalId = 12, RentDate = new DateTime(2014, 1, 1),
+                    ReturnDate = new DateTime(2015, 1, 1)
+                });
+            }
+            catch
+            {
+                Console.WriteLine(Messages.CarAlreadyRented);
+            }
         }
 
         private static void TripleTableJoin()
