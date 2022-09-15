@@ -41,7 +41,10 @@ namespace ConsoleUI
             {
                 rentalManager.Add(new Rental
                 {
-                    CarId = 2, CustomerId = 3, RentalId = 12, RentDate = new DateTime(2014, 1, 1),
+                    CarId = 2,
+                    CustomerId = 3,
+                    RentalId = 12,
+                    RentDate = new DateTime(2014, 1, 1),
                     ReturnDate = new DateTime(2015, 1, 1)
                 });
             }
@@ -65,7 +68,7 @@ namespace ConsoleUI
         {
             EfCarDal carDal = new EfCarDal();
             carDal.Update(new Car
-                { Id = 8, Description = "Mustafa", BrandId = 2, ColorId = 1, DailyPrice = 500, ModelYear = 1997 });
+            { Id = 8, Description = "Mustafa", BrandId = 2, ColorId = 1, DailyPrice = 500, ModelYear = 1997 });
 
             EfBrandDal brandDal = new EfBrandDal();
             brandDal.Update(new Brand { BrandId = 4, BrandName = "BMW" });

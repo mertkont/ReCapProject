@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Linq.Expressions;
@@ -21,9 +21,9 @@ namespace DataAccess.Concrete.EntityFramework
             using (CarRentalContext context = new CarRentalContext())
             {
                 var result = from c in context.Cars
-                    join j in context.Colors on c.ColorId equals j.ColorId
-                    join b in context.Brands on c.BrandId equals b.BrandId
-                    select new CarDetail3Dto { CarName = c.Description, BrandName = b.BrandName, ColorName = j.ColorName, DailyPrice = c.DailyPrice };
+                             join j in context.Colors on c.ColorId equals j.ColorId
+                             join b in context.Brands on c.BrandId equals b.BrandId
+                             select new CarDetail3Dto { CarName = c.Description, BrandName = b.BrandName, ColorName = j.ColorName, DailyPrice = c.DailyPrice };
                 return result.ToList();
             }
         }

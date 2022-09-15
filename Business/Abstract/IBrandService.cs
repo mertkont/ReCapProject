@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq.Expressions;
 using Core.Utilities.Results;
@@ -12,5 +12,6 @@ namespace Business.Abstract
         IDataResult<List<Brand>> GetAll();
         IDataResult<List<Brand>> GetById(int id);
         IDataResult<List<CarDetailDto>> GetCarsByBrandId(int id);
+        IResult Add(Brand brand);
     }
 }

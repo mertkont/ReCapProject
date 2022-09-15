@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using Core.Entities;
 
 namespace Entities.Concrete

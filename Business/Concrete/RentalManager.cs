@@ -1,8 +1,10 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using Business.Abstract;
 using Business.Constants;
+using Business.ValidationRules.FluentValidation;
+using Core.Aspects.Autofac.Validation;
 using Core.Utilities.Results;
 using DataAccess.Abstract;
 using DataAccess.Concrete.EntityFramework;
@@ -19,7 +21,7 @@ namespace Business.Concrete
         {
             _rentalDal = rentalDal;
         }
-        
+
         public IDataResult<List<Rental>> GetAll()
         {
             return new SuccessDataResult<List<Rental>>(_rentalDal.GetAll());
@@ -30,6 +32,7 @@ namespace Business.Concrete
             return new SuccessDataResult<Rental>(_rentalDal.Get(r => r.RentalId == id));
         }
 
+        [ValidationAspect(typeof(RentalValidator))]
         public IResult Add(Rental rental)
         {
             //arabanın tek kişi tarafından kiralanabilmesi için kiralayan kişinin araba id'si unique.
@@ -37,7 +40,7 @@ namespace Business.Concrete
             {
                 return new ErrorResult(Messages.BreakTime);
             }
-            
+
             _rentalDal.Add(rental);
             return new Result(true, Messages.CarAdded);
         }

@@ -1,4 +1,4 @@
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
 using Core.DataAccess.EntityFramework;
 using DataAccess.Abstract;
@@ -11,13 +11,13 @@ namespace DataAccess.Concrete.EntityFramework
     {
         public List<CarDetail2Dto> GetCarsByColorId(int id)
         {
-            using (CarRentalContext context = new CarRentalContext()) 
+            using (CarRentalContext context = new CarRentalContext())
             {
                 var result = from c in context.Cars
-                            join j in context.Colors
-                            on c.BrandId equals j.ColorId
-                            where j.ColorId == id
-                            select new CarDetail2Dto { ColorName = j.ColorName, Description = c.Description };
+                             join j in context.Colors
+                             on c.BrandId equals j.ColorId
+                             where j.ColorId == id
+                             select new CarDetail2Dto { ColorName = j.ColorName, Description = c.Description };
                 return result.ToList();
             }
         }

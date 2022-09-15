@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Linq.Expressions;
@@ -25,7 +25,7 @@ namespace DataAccess.Concrete.InMemory
                 new Car { Id = 7, BrandId = 3, ColorId = 1, ModelYear = 1995, DailyPrice = 800, Description = "Audi" },
             };
         }
-        
+
         public List<Car> GetAll(Expression<Func<Car, bool>> filter = null)
         {
             return _cars.ToList();

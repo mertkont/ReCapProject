@@ -1,4 +1,4 @@
-namespace Business.Constants
+﻿namespace Business.Constants
 {
     public static class Messages
     {
@@ -7,6 +7,6 @@ namespace Business.Constants
         public static string CarUpdated = "Product is updated";
         public static string BreakTime = "We are at our break time";
         public static string CarAlreadyRented = "This car has already been rented";
-        public static string CarCannotAdd = "You cannot add this car";
+        public static string CarNameInvalid = "Car name is invalid";
     }
 }

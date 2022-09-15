@@ -1,84 +1,48 @@
-C:/Users/Mert/Desktop/Dersler/Yazılım/C#/MyFinalProject/DataAccess/bin/Debug/netcoreapp3.1/DataAccess.deps.json
-C:/Users/Mert/Desktop/Dersler/Yazılım/C#/MyFinalProject/DataAccess/bin/Debug/netcoreapp3.1/DataAccess.dll
-C:/Users/Mert/Desktop/Dersler/Yazılım/C#/MyFinalProject/DataAccess/bin/Debug/netcoreapp3.1/DataAccess.pdb
-C:/Users/Mert/Desktop/Dersler/Yazılım/C#/MyFinalProject/DataAccess/bin/Debug/netcoreapp3.1/Entities.dll
-C:/Users/Mert/Desktop/Dersler/Yazılım/C#/MyFinalProject/DataAccess/bin/Debug/netcoreapp3.1/Entities.pdb
-C:/Users/Mert/Desktop/Dersler/Yazılım/C#/MyFinalProject/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.csproj.AssemblyReference.cache
-C:/Users/Mert/Desktop/Dersler/Yazılım/C#/MyFinalProject/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.GeneratedMSBuildEditorConfig.editorconfig
-C:/Users/Mert/Desktop/Dersler/Yazılım/C#/MyFinalProject/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.AssemblyInfoInputs.cache
-C:/Users/Mert/Desktop/Dersler/Yazılım/C#/MyFinalProject/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.AssemblyInfo.cs
-C:/Users/Mert/Desktop/Dersler/Yazılım/C#/MyFinalProject/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.csproj.CoreCompileInputs.cache
-C:/Users/Mert/Desktop/Dersler/Yazılım/C#/MyFinalProject/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.csproj.CopyComplete
-C:/Users/Mert/Desktop/Dersler/Yazılım/C#/MyFinalProject/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.dll
-C:/Users/Mert/Desktop/Dersler/Yazılım/C#/MyFinalProject/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.pdb
-/home/mert/Desktop/Project/MyFinalProject/DataAccess/bin/Debug/netcoreapp3.1/DataAccess.deps.json
-/home/mert/Desktop/Project/MyFinalProject/DataAccess/bin/Debug/netcoreapp3.1/DataAccess.dll
-/home/mert/Desktop/Project/MyFinalProject/DataAccess/bin/Debug/netcoreapp3.1/DataAccess.pdb
-/home/mert/Desktop/Project/MyFinalProject/DataAccess/bin/Debug/netcoreapp3.1/Entities.dll
-/home/mert/Desktop/Project/MyFinalProject/DataAccess/bin/Debug/netcoreapp3.1/Entities.pdb
-/home/mert/Desktop/Project/MyFinalProject/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.csproj.AssemblyReference.cache
-/home/mert/Desktop/Project/MyFinalProject/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.AssemblyInfoInputs.cache
-/home/mert/Desktop/Project/MyFinalProject/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.AssemblyInfo.cs
-/home/mert/Desktop/Project/MyFinalProject/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.csproj.CoreCompileInputs.cache
-/home/mert/Desktop/Project/MyFinalProject/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.csproj.CopyComplete
-/home/mert/Desktop/Project/MyFinalProject/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.dll
-/home/mert/Desktop/Project/MyFinalProject/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.pdb
-/home/mert/Desktop/Project/MyFinalProject/DataAccess/bin/Debug/netcoreapp3.1/Core.dll
-/home/mert/Desktop/Project/MyFinalProject/DataAccess/bin/Debug/netcoreapp3.1/Core.pdb
-/home/mert/Desktop/Project/ReCapProject22 (copy)/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.dll
-/home/mert/Desktop/Project/ReCapProject22 (copy)/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.pdb
-/home/mert/Desktop/Project/ReCapProject22 (copy)/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.csproj.AssemblyReference.cache
-/home/mert/Desktop/Project/ReCapProject22 (copy)/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.GeneratedMSBuildEditorConfig.editorconfig
-/home/mert/Desktop/Project/ReCapProject22 (copy)/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.AssemblyInfoInputs.cache
-/home/mert/Desktop/Project/ReCapProject22 (copy)/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.AssemblyInfo.cs
-/home/mert/Desktop/Project/ReCapProject22 (copy)/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.csproj.CoreCompileInputs.cache
-/home/mert/Desktop/Project/ReCapProject22 (copy)/DataAccess/bin/Debug/netcoreapp3.1/DataAccess.deps.json
-/home/mert/Desktop/Project/ReCapProject22 (copy)/DataAccess/bin/Debug/netcoreapp3.1/DataAccess.dll
-/home/mert/Desktop/Project/ReCapProject22 (copy)/DataAccess/bin/Debug/netcoreapp3.1/DataAccess.pdb
-/home/mert/Desktop/Project/ReCapProject22 (copy)/DataAccess/bin/Debug/netcoreapp3.1/Entities.dll
-/home/mert/Desktop/Project/ReCapProject22 (copy)/DataAccess/bin/Debug/netcoreapp3.1/Entities.pdb
-/home/mert/Desktop/Project/ReCapProject22 (copy)/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.csproj.CopyComplete
-/home/mert/Desktop/Project/ReCapProject2/DataAccess/bin/Debug/netcoreapp3.1/DataAccess.deps.json
-/home/mert/Desktop/Project/ReCapProject2/DataAccess/bin/Debug/netcoreapp3.1/DataAccess.dll
-/home/mert/Desktop/Project/ReCapProject2/DataAccess/bin/Debug/netcoreapp3.1/DataAccess.pdb
-/home/mert/Desktop/Project/ReCapProject2/DataAccess/bin/Debug/netcoreapp3.1/Entities.dll
-/home/mert/Desktop/Project/ReCapProject2/DataAccess/bin/Debug/netcoreapp3.1/Entities.pdb
-/home/mert/Desktop/Project/ReCapProject2/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.csproj.AssemblyReference.cache
-/home/mert/Desktop/Project/ReCapProject2/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.GeneratedMSBuildEditorConfig.editorconfig
-/home/mert/Desktop/Project/ReCapProject2/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.AssemblyInfoInputs.cache
-/home/mert/Desktop/Project/ReCapProject2/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.AssemblyInfo.cs
-/home/mert/Desktop/Project/ReCapProject2/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.csproj.CoreCompileInputs.cache
-/home/mert/Desktop/Project/ReCapProject2/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.csproj.CopyComplete
-/home/mert/Desktop/Project/ReCapProject2/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.dll
-/home/mert/Desktop/Project/ReCapProject2/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.pdb
-/home/mert/Desktop/Project/ReCapProject3/DataAccess/bin/Debug/netcoreapp3.1/DataAccess.deps.json
-/home/mert/Desktop/Project/ReCapProject3/DataAccess/bin/Debug/netcoreapp3.1/DataAccess.dll
-/home/mert/Desktop/Project/ReCapProject3/DataAccess/bin/Debug/netcoreapp3.1/DataAccess.pdb
-/home/mert/Desktop/Project/ReCapProject3/DataAccess/bin/Debug/netcoreapp3.1/Entities.dll
-/home/mert/Desktop/Project/ReCapProject3/DataAccess/bin/Debug/netcoreapp3.1/Entities.pdb
-/home/mert/Desktop/Project/ReCapProject3/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.csproj.AssemblyReference.cache
-/home/mert/Desktop/Project/ReCapProject3/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.AssemblyInfoInputs.cache
-/home/mert/Desktop/Project/ReCapProject3/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.AssemblyInfo.cs
-/home/mert/Desktop/Project/ReCapProject3/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.csproj.CoreCompileInputs.cache
-/home/mert/Desktop/Project/ReCapProject3/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.csproj.CopyComplete
-/home/mert/Desktop/Project/ReCapProject3/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.dll
-/home/mert/Desktop/Project/ReCapProject3/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.pdb
-/home/mert/Desktop/Project/ReCapProject3/DataAccess/bin/Debug/netcoreapp3.1/Core.dll
-/home/mert/Desktop/Project/ReCapProject3/DataAccess/bin/Debug/netcoreapp3.1/Core.pdb
-/home/mert/Desktop/Project/ReCapProject5/DataAccess/bin/Debug/netcoreapp3.1/DataAccess.deps.json
-/home/mert/Desktop/Project/ReCapProject5/DataAccess/bin/Debug/netcoreapp3.1/DataAccess.dll
-/home/mert/Desktop/Project/ReCapProject5/DataAccess/bin/Debug/netcoreapp3.1/DataAccess.pdb
-/home/mert/Desktop/Project/ReCapProject5/DataAccess/bin/Debug/netcoreapp3.1/Core.dll
-/home/mert/Desktop/Project/ReCapProject5/DataAccess/bin/Debug/netcoreapp3.1/Entities.dll
-/home/mert/Desktop/Project/ReCapProject5/DataAccess/bin/Debug/netcoreapp3.1/Core.pdb
-/home/mert/Desktop/Project/ReCapProject5/DataAccess/bin/Debug/netcoreapp3.1/Entities.pdb
-/home/mert/Desktop/Project/ReCapProject5/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.csproj.AssemblyReference.cache
-/home/mert/Desktop/Project/ReCapProject5/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.AssemblyInfoInputs.cache
-/home/mert/Desktop/Project/ReCapProject5/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.AssemblyInfo.cs
-/home/mert/Desktop/Project/ReCapProject5/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.csproj.CoreCompileInputs.cache
-/home/mert/Desktop/Project/ReCapProject5/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.csproj.CopyComplete
-/home/mert/Desktop/Project/ReCapProject5/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.dll
-/home/mert/Desktop/Project/ReCapProject5/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.pdb
+/home/mert/Desktop/Project/ReCapProject6asd/DataAccess/bin/Debug/netcoreapp3.1/DataAccess.deps.json
+/home/mert/Desktop/Project/ReCapProject6asd/DataAccess/bin/Debug/netcoreapp3.1/DataAccess.dll
+/home/mert/Desktop/Project/ReCapProject6asd/DataAccess/bin/Debug/netcoreapp3.1/DataAccess.pdb
+/home/mert/Desktop/Project/ReCapProject6asd/DataAccess/bin/Debug/netcoreapp3.1/Core.dll
+/home/mert/Desktop/Project/ReCapProject6asd/DataAccess/bin/Debug/netcoreapp3.1/Entities.dll
+/home/mert/Desktop/Project/ReCapProject6asd/DataAccess/bin/Debug/netcoreapp3.1/Core.pdb
+/home/mert/Desktop/Project/ReCapProject6asd/DataAccess/bin/Debug/netcoreapp3.1/Entities.pdb
+/home/mert/Desktop/Project/ReCapProject6asd/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.csproj.AssemblyReference.cache
+/home/mert/Desktop/Project/ReCapProject6asd/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/home/mert/Desktop/Project/ReCapProject6asd/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.AssemblyInfoInputs.cache
+/home/mert/Desktop/Project/ReCapProject6asd/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.AssemblyInfo.cs
+/home/mert/Desktop/Project/ReCapProject6asd/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.csproj.CoreCompileInputs.cache
+/home/mert/Desktop/Project/ReCapProject6asd/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.csproj.CopyComplete
+/home/mert/Desktop/Project/ReCapProject6asd/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.dll
+/home/mert/Desktop/Project/ReCapProject6asd/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.pdb
+/home/mert/Desktop/Project/ReCapProject6/DataAccess/bin/Debug/netcoreapp3.1/DataAccess.deps.json
+/home/mert/Desktop/Project/ReCapProject6/DataAccess/bin/Debug/netcoreapp3.1/DataAccess.dll
+/home/mert/Desktop/Project/ReCapProject6/DataAccess/bin/Debug/netcoreapp3.1/DataAccess.pdb
+/home/mert/Desktop/Project/ReCapProject6/DataAccess/bin/Debug/netcoreapp3.1/Core.dll
+/home/mert/Desktop/Project/ReCapProject6/DataAccess/bin/Debug/netcoreapp3.1/Entities.dll
+/home/mert/Desktop/Project/ReCapProject6/DataAccess/bin/Debug/netcoreapp3.1/Core.pdb
+/home/mert/Desktop/Project/ReCapProject6/DataAccess/bin/Debug/netcoreapp3.1/Entities.pdb
+/home/mert/Desktop/Project/ReCapProject6/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.csproj.AssemblyReference.cache
+/home/mert/Desktop/Project/ReCapProject6/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/home/mert/Desktop/Project/ReCapProject6/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.AssemblyInfoInputs.cache
+/home/mert/Desktop/Project/ReCapProject6/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.AssemblyInfo.cs
+/home/mert/Desktop/Project/ReCapProject6/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.csproj.CoreCompileInputs.cache
+/home/mert/Desktop/Project/ReCapProject6/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.csproj.CopyComplete
+/home/mert/Desktop/Project/ReCapProject6/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.dll
+/home/mert/Desktop/Project/ReCapProject6/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.pdb
+/home/mert/Desktop/Project/ReCapProject7/DataAccess/bin/Debug/netcoreapp3.1/DataAccess.deps.json
+/home/mert/Desktop/Project/ReCapProject7/DataAccess/bin/Debug/netcoreapp3.1/DataAccess.dll
+/home/mert/Desktop/Project/ReCapProject7/DataAccess/bin/Debug/netcoreapp3.1/DataAccess.pdb
+/home/mert/Desktop/Project/ReCapProject7/DataAccess/bin/Debug/netcoreapp3.1/Core.dll
+/home/mert/Desktop/Project/ReCapProject7/DataAccess/bin/Debug/netcoreapp3.1/Entities.dll
+/home/mert/Desktop/Project/ReCapProject7/DataAccess/bin/Debug/netcoreapp3.1/Core.pdb
+/home/mert/Desktop/Project/ReCapProject7/DataAccess/bin/Debug/netcoreapp3.1/Entities.pdb
+/home/mert/Desktop/Project/ReCapProject7/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.csproj.AssemblyReference.cache
+/home/mert/Desktop/Project/ReCapProject7/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/home/mert/Desktop/Project/ReCapProject7/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.AssemblyInfoInputs.cache
+/home/mert/Desktop/Project/ReCapProject7/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.AssemblyInfo.cs
+/home/mert/Desktop/Project/ReCapProject7/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.csproj.CoreCompileInputs.cache
+/home/mert/Desktop/Project/ReCapProject7/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.csproj.CopyComplete
+/home/mert/Desktop/Project/ReCapProject7/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.dll
+/home/mert/Desktop/Project/ReCapProject7/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.pdb
 /home/mert/Desktop/hello/DataAccess/bin/Debug/netcoreapp3.1/DataAccess.deps.json
 /home/mert/Desktop/hello/DataAccess/bin/Debug/netcoreapp3.1/DataAccess.dll
 /home/mert/Desktop/hello/DataAccess/bin/Debug/netcoreapp3.1/DataAccess.pdb
@@ -87,6 +51,7 @@ C:/Users/Mert/Desktop/Dersler/Yazılım/C#/MyFinalProject/DataAccess/obj/Debug/n
 /home/mert/Desktop/hello/DataAccess/bin/Debug/netcoreapp3.1/Core.pdb
 /home/mert/Desktop/hello/DataAccess/bin/Debug/netcoreapp3.1/Entities.pdb
 /home/mert/Desktop/hello/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.csproj.AssemblyReference.cache
+/home/mert/Desktop/hello/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.GeneratedMSBuildEditorConfig.editorconfig
 /home/mert/Desktop/hello/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.AssemblyInfoInputs.cache
 /home/mert/Desktop/hello/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.AssemblyInfo.cs
 /home/mert/Desktop/hello/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.csproj.CoreCompileInputs.cache

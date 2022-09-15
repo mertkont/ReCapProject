@@ -1,9 +1,11 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Linq.Expressions;
 using Business.Abstract;
 using Business.Constants;
+using Business.ValidationRules.FluentValidation;
+using Core.Aspects.Autofac.Validation;
 using Core.Utilities.Results;
 using DataAccess.Abstract;
 using DataAccess.Concrete.InMemory;
@@ -20,7 +22,7 @@ namespace Business.Concrete
         {
             _carDal = carDal;
         }
-        
+
         public IDataResult<List<Car>> GetAll()
         {
             return new SuccessDataResult<List<Car>>(_carDal.GetAll());
@@ -36,13 +38,9 @@ namespace Business.Concrete
             return new SuccessDataResult<List<CarDetail3Dto>>(_carDal.GetCars());
         }
 
+        [ValidationAspect(typeof(CarValidator))]
         public IResult Add(Car car)
         {
-            if (car.Description.Length < 2 && car.DailyPrice < 200)
-            {
-                return new ErrorResult(Messages.CarCannotAdd);
-            }
-
             _carDal.Add(car);
             return new SuccessResult(Messages.CarAdded);
         }
