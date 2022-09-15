@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="f8a97993-7db4-4879-9257-1a01a44e18e0" name="CarRental Mapping">
+      <data-sources db="62da7c6c-ef9c-4703-9dcc-77ad2a18d90c" ddl="adc7fe53-f0f3-41ad-a364-f7420112d426" />
+      <scope>
+        <node kind="database" qname="@">
+          <node kind="schema" qname="@" />
+        </node>
+      </scope>
+    </mapping>
+    <mapping uuid="cfc09bef-cf56-4b55-8a61-05368b92a29e" name="DDL Mapping">
+      <data-sources db="62da7c6c-ef9c-4703-9dcc-77ad2a18d90c" ddl="adc7fe53-f0f3-41ad-a364-f7420112d426" />
+      <scope>
+        <node kind="database" qname="@">
+          <node kind="schema" qname="@" />
+        </node>
+      </scope>
+    </mapping>
+  </component>
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="adc7fe53-f0f3-41ad-a364-f7420112d426" />
+          <option name="name" value="CarRental (DDL)" />
+          <option name="languageId" value="TSQL" />
+          <option name="urls">
+            <array>
+              <option value="file://$PROJECT_DIR$/ReCapProject.sln" />
+            </array>
+          </option>
+        </State>
+      </list>
+    </option>
+  </component>
+</project>

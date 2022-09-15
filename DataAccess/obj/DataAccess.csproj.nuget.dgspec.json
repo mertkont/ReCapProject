@@ -4,6 +4,21 @@
     "/home/mert/Desktop/olk/ReCapProject/DataAccess/DataAccess.csproj": {}
   },
   "projects": {
+    "/home/mert/Desktop/olk/ReCapProject/Core/Core.csproj": {
+      "restore": {
+        "projectUniqueName": "/home/mert/Desktop/olk/ReCapProject/Core/Core.csproj",
+        "projectName": "Core",
+        "projectPath": "/home/mert/Desktop/olk/ReCapProject/Core/Core.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
     "/home/mert/Desktop/olk/ReCapProject/DataAccess/DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -26,6 +41,9 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
+              "/home/mert/Desktop/olk/ReCapProject/Core/Core.csproj": {
+                "projectPath": "/home/mert/Desktop/olk/ReCapProject/Core/Core.csproj"
+              },
               "/home/mert/Desktop/olk/ReCapProject/Entities/Entities.csproj": {
                 "projectPath": "/home/mert/Desktop/olk/ReCapProject/Entities/Entities.csproj"
               }
@@ -53,8 +71,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -63,7 +80,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.422/RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -88,7 +105,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
-            "projectReferences": {}
+            "projectReferences": {
+              "/home/mert/Desktop/olk/ReCapProject/Core/Core.csproj": {
+                "projectPath": "/home/mert/Desktop/olk/ReCapProject/Core/Core.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -106,8 +127,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -116,7 +136,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.422/RuntimeIdentifierGraph.json"
         }
       }
     }

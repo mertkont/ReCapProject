@@ -1,6 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/Business/Abstract/IBrandService.cs" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/Business/Abstract/ICarService.cs" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/Business/Abstract/IColorService.cs" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/Business/Business.csproj" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/Business/Concrete/BrandManager.cs" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/Business/Concrete/CarManager.cs" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/Business/Concrete/ColorManager.cs" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/ConsoleUI/ConsoleUI.csproj" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/ConsoleUI/Program.cs" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/Core/DataAccess/EntityFramework/EfEntityRepositoryBase.cs" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/Core/DataAccess/IEntityRepository.cs" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/Core/Entities/IDto.cs" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/Core/Entities/IEntity.cs" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/DataAccess/Abstract/IBrandDal.cs" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/DataAccess/Abstract/ICarDal.cs" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/DataAccess/Abstract/IColorDal.cs" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/DataAccess/Concrete/EntityFramework/CarRentalContext.cs" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/DataAccess/Concrete/EntityFramework/EfBrandDal.cs" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/DataAccess/Concrete/EntityFramework/EfCarDal.cs" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/DataAccess/Concrete/EntityFramework/EfColorDal.cs" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/DataAccess/Concrete/InMemory/InMemoryCarDal.cs" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/DataAccess/DataAccess.csproj" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/Entities/Concrete/Brand.cs" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/Entities/Concrete/Car.cs" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/Entities/Concrete/Color.cs" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/Entities/DTOs/CarDetailDto.cs" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/Entities/Entities.csproj" dialect="TSQL" />
     <file url="file://$PROJECT_DIR$/ReCapProject.sln" dialect="TSQL" />
   </component>
 </project>

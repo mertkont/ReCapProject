@@ -1,4 +1,5 @@
 using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Linq.Expressions;
@@ -21,6 +22,11 @@ namespace Business.Concrete
         public List<Brand> GetAll()
         {
             return _brandDal.GetAll();
+        }
+
+        public List<Brand> GetById(int id)
+        {
+            return _brandDal.GetAll(b => b.BrandId == id);
         }
 
         public List<CarDetailDto> GetCarsByBrandId(int id)

@@ -10,6 +10,6 @@ namespace Business.Abstract
     {
         List<Car> GetAll();
         List<Car> GetById(int id);
-        void Add(Car car);
+        List<CarDetail3Dto> GetCars();
     }
 }

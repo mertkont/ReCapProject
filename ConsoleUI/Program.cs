@@ -1,4 +1,6 @@
 ﻿using System;
+using System.IO.Enumeration;
+using Business.Abstract;
 using Business.Concrete;
 using DataAccess.Concrete.EntityFramework;
 using DataAccess.Concrete.InMemory;
@@ -14,7 +16,122 @@ namespace ConsoleUI
 
             // GetCarsByBrandIdMethod();
 
-            GetCarsByColorIdMethod();
+            // GetCarsByColorIdMethod();
+
+            // AddActions();
+
+            // GetByIds();
+
+            // GetAlls();
+
+            // DeleteActions();
+
+            // UpdateCommands();
+
+            // TripleTableJoin();
+        }
+
+        private static void TripleTableJoin()
+        {
+            CarManager carManager = new CarManager(new EfCarDal());
+            foreach (var car in carManager.GetCars())
+            {
+                Console.WriteLine(car.CarName + " - " + car.BrandName + " - " + car.ColorName + " - " + car.DailyPrice);
+            }
+        }
+
+        private static void UpdateCommands()
+        {
+            EfCarDal carDal = new EfCarDal();
+            carDal.Update(new Car
+                { Id = 8, Description = "Mustafa", BrandId = 2, ColorId = 1, DailyPrice = 500, ModelYear = 1997 });
+
+            EfBrandDal brandDal = new EfBrandDal();
+            brandDal.Update(new Brand { BrandId = 4, BrandName = "BMW" });
+
+            EfColorDal colorDal = new EfColorDal();
+            colorDal.Update(new Color { ColorId = 4, ColorName = "Pink" });
+        }
+
+        private static void DeleteActions()
+        {
+            EfColorDal colorDal = new EfColorDal();
+            colorDal.Add(new Color { ColorId = 4, ColorName = "Purple" });
+
+            EfBrandDal brandDal = new EfBrandDal();
+            brandDal.Delete(new Brand { BrandId = 4 });
+
+            EfCarDal carDal = new EfCarDal();
+            carDal.Delete(new Car { Id = 8 });
+        }
+
+        private static void GetAlls()
+        {
+            CarManager carManager = new CarManager(new EfCarDal());
+            foreach (var car in carManager.GetAll())
+            {
+                Console.WriteLine(car.Description);
+            }
+
+            BrandManager brandManager = new BrandManager(new EfBrandDal());
+            foreach (var brand in brandManager.GetAll())
+            {
+                Console.WriteLine(brand.BrandName);
+            }
+
+            ColorManager colorManager = new ColorManager(new EfColorDal());
+            foreach (var color in colorManager.GetAll())
+            {
+                Console.WriteLine(color.ColorName);
+            }
+        }
+
+        private static void GetByIds()
+        {
+            BrandManager brandManager = new BrandManager(new EfBrandDal());
+            foreach (var brand in brandManager.GetById(2))
+            {
+                Console.WriteLine(brand.BrandName);
+            }
+
+            ColorManager colorManager = new ColorManager(new EfColorDal());
+            foreach (var color in colorManager.GetById(1))
+            {
+                Console.WriteLine(color.ColorName);
+            }
+
+            CarManager carManager = new CarManager(new EfCarDal());
+            foreach (var car in carManager.GetById(1))
+            {
+                Console.WriteLine(car.Description);
+            }
+        }
+
+        private static void AddActions()
+        {
+            AddBrand();
+
+            AddCar();
+
+            AddColor();
+        }
+
+        private static void AddColor()
+        {
+            EfColorDal colorDal = new EfColorDal();
+            colorDal.Add(new Color { ColorId = 4, ColorName = "Purple" });
+        }
+
+        private static void AddCar()
+        {
+            EfCarDal carDal = new EfCarDal();
+            carDal.Add(new Car { Id = 8, Description = "Caner", BrandId = 4, ColorId = 2, DailyPrice = 800, ModelYear = 1998 });
+        }
+
+        private static void AddBrand()
+        {
+            EfBrandDal brandDal = new EfBrandDal();
+            brandDal.Add(new Brand { BrandId = 4, BrandName = "Audi" });
         }
 
         private static void GetCarsByColorIdMethod()

@@ -8,5 +8,6 @@ namespace Business.Abstract
     {
         List<Color> GetAll();
         List<CarDetail2Dto> GetCarsByColorId(int id);
+        List<Color> GetById(int id);
     }
 }
