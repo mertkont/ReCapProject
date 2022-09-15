@@ -1,5 +1,6 @@
 using System.Collections.Generic;
 using Business.Abstract;
+using Core.Utilities.Results;
 using DataAccess.Abstract;
 using Entities.Concrete;
 using Entities.DTOs;
@@ -14,19 +15,19 @@ namespace Business.Concrete
         {
             _colorDal = colorDal;
         }
-        public List<Color> GetAll()
+        public IDataResult<List<Color>> GetAll()
         {
-            return _colorDal.GetAll();
+            return new SuccessDataResult<List<Color>>(_colorDal.GetAll());
         }
 
-        public List<CarDetail2Dto> GetCarsByColorId(int id)
+        public IDataResult<List<CarDetail2Dto>> GetCarsByColorId(int id)
         {
-            return _colorDal.GetCarsByColorId(id);
+            return new SuccessDataResult<List<CarDetail2Dto>>(_colorDal.GetCarsByColorId(id));
         }
 
-        public List<Color> GetById(int id)
+        public IDataResult<List<Color>> GetById(int id)
         {
-            return _colorDal.GetAll(c => c.ColorId == id);
+            return new SuccessDataResult<List<Color>>(_colorDal.GetAll(c => c.ColorId == id));
         }
     }
 }

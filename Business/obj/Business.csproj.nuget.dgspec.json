@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/mert/Desktop/olk/ReCapProject/Business/Business.csproj": {}
+    "/home/mert/Desktop/hello/Business/Business.csproj": {}
   },
   "projects": {
-    "/home/mert/Desktop/olk/ReCapProject/Business/Business.csproj": {
+    "/home/mert/Desktop/hello/Business/Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/mert/Desktop/olk/ReCapProject/Business/Business.csproj",
+        "projectUniqueName": "/home/mert/Desktop/hello/Business/Business.csproj",
         "projectName": "Business",
-        "projectPath": "/home/mert/Desktop/olk/ReCapProject/Business/Business.csproj",
+        "projectPath": "/home/mert/Desktop/hello/Business/Business.csproj",
         "packagesPath": "/home/mert/.nuget/packages/",
-        "outputPath": "/home/mert/Desktop/olk/ReCapProject/Business/obj/",
+        "outputPath": "/home/mert/Desktop/hello/Business/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/mert/.nuget/NuGet/NuGet.Config"
@@ -26,11 +26,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "/home/mert/Desktop/olk/ReCapProject/DataAccess/DataAccess.csproj": {
-                "projectPath": "/home/mert/Desktop/olk/ReCapProject/DataAccess/DataAccess.csproj"
+              "/home/mert/Desktop/hello/DataAccess/DataAccess.csproj": {
+                "projectPath": "/home/mert/Desktop/hello/DataAccess/DataAccess.csproj"
               },
-              "/home/mert/Desktop/olk/ReCapProject/Entities/Entities.csproj": {
-                "projectPath": "/home/mert/Desktop/olk/ReCapProject/Entities/Entities.csproj"
+              "/home/mert/Desktop/hello/Entities/Entities.csproj": {
+                "projectPath": "/home/mert/Desktop/hello/Entities/Entities.csproj"
               }
             }
           }
@@ -63,11 +63,11 @@
         }
       }
     },
-    "/home/mert/Desktop/olk/ReCapProject/Core/Core.csproj": {
+    "/home/mert/Desktop/hello/Core/Core.csproj": {
       "restore": {
-        "projectUniqueName": "/home/mert/Desktop/olk/ReCapProject/Core/Core.csproj",
+        "projectUniqueName": "/home/mert/Desktop/hello/Core/Core.csproj",
         "projectName": "Core",
-        "projectPath": "/home/mert/Desktop/olk/ReCapProject/Core/Core.csproj",
+        "projectPath": "/home/mert/Desktop/hello/Core/Core.csproj",
         "frameworks": {
           "net48": {
             "projectReferences": {}
@@ -78,14 +78,14 @@
         "net48": {}
       }
     },
-    "/home/mert/Desktop/olk/ReCapProject/DataAccess/DataAccess.csproj": {
+    "/home/mert/Desktop/hello/DataAccess/DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/mert/Desktop/olk/ReCapProject/DataAccess/DataAccess.csproj",
+        "projectUniqueName": "/home/mert/Desktop/hello/DataAccess/DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "/home/mert/Desktop/olk/ReCapProject/DataAccess/DataAccess.csproj",
+        "projectPath": "/home/mert/Desktop/hello/DataAccess/DataAccess.csproj",
         "packagesPath": "/home/mert/.nuget/packages/",
-        "outputPath": "/home/mert/Desktop/olk/ReCapProject/DataAccess/obj/",
+        "outputPath": "/home/mert/Desktop/hello/DataAccess/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/mert/.nuget/NuGet/NuGet.Config"
@@ -100,11 +100,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "/home/mert/Desktop/olk/ReCapProject/Core/Core.csproj": {
-                "projectPath": "/home/mert/Desktop/olk/ReCapProject/Core/Core.csproj"
+              "/home/mert/Desktop/hello/Core/Core.csproj": {
+                "projectPath": "/home/mert/Desktop/hello/Core/Core.csproj"
               },
-              "/home/mert/Desktop/olk/ReCapProject/Entities/Entities.csproj": {
-                "projectPath": "/home/mert/Desktop/olk/ReCapProject/Entities/Entities.csproj"
+              "/home/mert/Desktop/hello/Entities/Entities.csproj": {
+                "projectPath": "/home/mert/Desktop/hello/Entities/Entities.csproj"
               }
             }
           }
@@ -143,14 +143,14 @@
         }
       }
     },
-    "/home/mert/Desktop/olk/ReCapProject/Entities/Entities.csproj": {
+    "/home/mert/Desktop/hello/Entities/Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/mert/Desktop/olk/ReCapProject/Entities/Entities.csproj",
+        "projectUniqueName": "/home/mert/Desktop/hello/Entities/Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "/home/mert/Desktop/olk/ReCapProject/Entities/Entities.csproj",
+        "projectPath": "/home/mert/Desktop/hello/Entities/Entities.csproj",
         "packagesPath": "/home/mert/.nuget/packages/",
-        "outputPath": "/home/mert/Desktop/olk/ReCapProject/Entities/obj/",
+        "outputPath": "/home/mert/Desktop/hello/Entities/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/mert/.nuget/NuGet/NuGet.Config"
@@ -165,8 +165,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "/home/mert/Desktop/olk/ReCapProject/Core/Core.csproj": {
-                "projectPath": "/home/mert/Desktop/olk/ReCapProject/Core/Core.csproj"
+              "/home/mert/Desktop/hello/Core/Core.csproj": {
+                "projectPath": "/home/mert/Desktop/hello/Core/Core.csproj"
               }
             }
           }

@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq.Expressions;
+using Core.Utilities.Results;
 using Entities.Concrete;
 using Entities.DTOs;
 
@@ -8,8 +9,8 @@ namespace Business.Abstract
 {
     public interface IBrandService
     {
-        List<Brand> GetAll();
-        List<Brand> GetById(int id);
-        List<CarDetailDto> GetCarsByBrandId(int id);
+        IDataResult<List<Brand>> GetAll();
+        IDataResult<List<Brand>> GetById(int id);
+        IDataResult<List<CarDetailDto>> GetCarsByBrandId(int id);
     }
 }

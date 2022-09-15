@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r/KqJWVYXlqptdmIBZWthd5ZjcHAYkS9xDeoq7ntCEEBYm7ro15cYfjCmuNV8hyFCHfzzhIuwvGtsN+UzMDdvQ==",
+  "dgSpecHash": "ppidenlf2zkBRZ2L78e8/xezAIhzR7ILTorTvp0jUp4KSWNUfjL2UFprZR9wWlY9ahdrXlzFGuiPGW1BjpFm7g==",
   "success": true,
-  "projectFilePath": "/home/mert/Desktop/olk/ReCapProject/Entities/Entities.csproj",
+  "projectFilePath": "/home/mert/Desktop/hello/Entities/Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

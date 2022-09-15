@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Linq.Expressions;
 using Business.Abstract;
+using Core.Utilities.Results;
 using DataAccess.Abstract;
 using DataAccess.Concrete.InMemory;
 using Entities.Concrete;
@@ -19,19 +20,19 @@ namespace Business.Concrete
             _carDal = carDal;
         }
         
-        public List<Car> GetAll()
+        public IDataResult<List<Car>> GetAll()
         {
-            return _carDal.GetAll();
+            return new SuccessDataResult<List<Car>>(_carDal.GetAll());
         }
 
-        public List<Car> GetById(int id)
+        public IDataResult<List<Car>> GetById(int id)
         {
-            return _carDal.GetAll(c => c.Id == id);
+            return new SuccessDataResult<List<Car>>(_carDal.GetAll(c => c.Id == id));
         }
 
-        public List<CarDetail3Dto> GetCars()
+        public IDataResult<List<CarDetail3Dto>> GetCars()
         {
-            return _carDal.GetCars();
+            return new SuccessDataResult<List<CarDetail3Dto>>(_carDal.GetCars());
         }
     }
 }
