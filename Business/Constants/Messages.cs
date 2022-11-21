@@ -8,5 +8,6 @@
         public static string BreakTime = "We are at our break time";
         public static string CarAlreadyRented = "This car has already been rented";
         public static string CarNameInvalid = "Car name is invalid";
+        public static string CarNumberExceeded = "Car number is exceeded";
     }
 }

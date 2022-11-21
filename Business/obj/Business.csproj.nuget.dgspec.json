@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/mert/Desktop/olk/ReCapProject/Business/Business.csproj": {}
+    "/home/mert/Desktop/Project/ReCapProject/Business/Business.csproj": {}
   },
   "projects": {
-    "/home/mert/Desktop/olk/ReCapProject/Business/Business.csproj": {
+    "/home/mert/Desktop/Project/ReCapProject/Business/Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/mert/Desktop/olk/ReCapProject/Business/Business.csproj",
+        "projectUniqueName": "/home/mert/Desktop/Project/ReCapProject/Business/Business.csproj",
         "projectName": "Business",
-        "projectPath": "/home/mert/Desktop/olk/ReCapProject/Business/Business.csproj",
+        "projectPath": "/home/mert/Desktop/Project/ReCapProject/Business/Business.csproj",
         "packagesPath": "/home/mert/.nuget/packages/",
-        "outputPath": "/home/mert/Desktop/olk/ReCapProject/Business/obj/",
+        "outputPath": "/home/mert/Desktop/Project/ReCapProject/Business/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/mert/.nuget/NuGet/NuGet.Config"
@@ -26,14 +26,14 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "/home/mert/Desktop/olk/ReCapProject/Core/Core.csproj": {
-                "projectPath": "/home/mert/Desktop/olk/ReCapProject/Core/Core.csproj"
+              "/home/mert/Desktop/Project/ReCapProject/Core/Core.csproj": {
+                "projectPath": "/home/mert/Desktop/Project/ReCapProject/Core/Core.csproj"
               },
-              "/home/mert/Desktop/olk/ReCapProject/DataAccess/DataAccess.csproj": {
-                "projectPath": "/home/mert/Desktop/olk/ReCapProject/DataAccess/DataAccess.csproj"
+              "/home/mert/Desktop/Project/ReCapProject/DataAccess/DataAccess.csproj": {
+                "projectPath": "/home/mert/Desktop/Project/ReCapProject/DataAccess/DataAccess.csproj"
               },
-              "/home/mert/Desktop/olk/ReCapProject/Entities/Entities.csproj": {
-                "projectPath": "/home/mert/Desktop/olk/ReCapProject/Entities/Entities.csproj"
+              "/home/mert/Desktop/Project/ReCapProject/Entities/Entities.csproj": {
+                "projectPath": "/home/mert/Desktop/Project/ReCapProject/Entities/Entities.csproj"
               }
             }
           }
@@ -63,6 +63,10 @@
             "FluentValidation": {
               "target": "Package",
               "version": "[9.5.1, )"
+            },
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[6.0.0-preview.4.21253.5, )"
             }
           },
           "imports": [
@@ -81,18 +85,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.403/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/mert/Desktop/olk/ReCapProject/Core/Core.csproj": {
+    "/home/mert/Desktop/Project/ReCapProject/Core/Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/mert/Desktop/olk/ReCapProject/Core/Core.csproj",
+        "projectUniqueName": "/home/mert/Desktop/Project/ReCapProject/Core/Core.csproj",
         "projectName": "Core",
-        "projectPath": "/home/mert/Desktop/olk/ReCapProject/Core/Core.csproj",
+        "projectPath": "/home/mert/Desktop/Project/ReCapProject/Core/Core.csproj",
         "packagesPath": "/home/mert/.nuget/packages/",
-        "outputPath": "/home/mert/Desktop/olk/ReCapProject/Core/obj/",
+        "outputPath": "/home/mert/Desktop/Project/ReCapProject/Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/mert/.nuget/NuGet/NuGet.Config"
@@ -156,18 +160,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.403/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/mert/Desktop/olk/ReCapProject/DataAccess/DataAccess.csproj": {
+    "/home/mert/Desktop/Project/ReCapProject/DataAccess/DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/mert/Desktop/olk/ReCapProject/DataAccess/DataAccess.csproj",
+        "projectUniqueName": "/home/mert/Desktop/Project/ReCapProject/DataAccess/DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "/home/mert/Desktop/olk/ReCapProject/DataAccess/DataAccess.csproj",
+        "projectPath": "/home/mert/Desktop/Project/ReCapProject/DataAccess/DataAccess.csproj",
         "packagesPath": "/home/mert/.nuget/packages/",
-        "outputPath": "/home/mert/Desktop/olk/ReCapProject/DataAccess/obj/",
+        "outputPath": "/home/mert/Desktop/Project/ReCapProject/DataAccess/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/mert/.nuget/NuGet/NuGet.Config"
@@ -182,11 +186,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "/home/mert/Desktop/olk/ReCapProject/Core/Core.csproj": {
-                "projectPath": "/home/mert/Desktop/olk/ReCapProject/Core/Core.csproj"
+              "/home/mert/Desktop/Project/ReCapProject/Core/Core.csproj": {
+                "projectPath": "/home/mert/Desktop/Project/ReCapProject/Core/Core.csproj"
               },
-              "/home/mert/Desktop/olk/ReCapProject/Entities/Entities.csproj": {
-                "projectPath": "/home/mert/Desktop/olk/ReCapProject/Entities/Entities.csproj"
+              "/home/mert/Desktop/Project/ReCapProject/Entities/Entities.csproj": {
+                "projectPath": "/home/mert/Desktop/Project/ReCapProject/Entities/Entities.csproj"
               }
             }
           }
@@ -222,18 +226,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.403/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/mert/Desktop/olk/ReCapProject/Entities/Entities.csproj": {
+    "/home/mert/Desktop/Project/ReCapProject/Entities/Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/mert/Desktop/olk/ReCapProject/Entities/Entities.csproj",
+        "projectUniqueName": "/home/mert/Desktop/Project/ReCapProject/Entities/Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "/home/mert/Desktop/olk/ReCapProject/Entities/Entities.csproj",
+        "projectPath": "/home/mert/Desktop/Project/ReCapProject/Entities/Entities.csproj",
         "packagesPath": "/home/mert/.nuget/packages/",
-        "outputPath": "/home/mert/Desktop/olk/ReCapProject/Entities/obj/",
+        "outputPath": "/home/mert/Desktop/Project/ReCapProject/Entities/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/mert/.nuget/NuGet/NuGet.Config"
@@ -248,8 +252,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "/home/mert/Desktop/olk/ReCapProject/Core/Core.csproj": {
-                "projectPath": "/home/mert/Desktop/olk/ReCapProject/Core/Core.csproj"
+              "/home/mert/Desktop/Project/ReCapProject/Core/Core.csproj": {
+                "projectPath": "/home/mert/Desktop/Project/ReCapProject/Core/Core.csproj"
               }
             }
           }
@@ -279,7 +283,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.403/RuntimeIdentifierGraph.json"
         }
       }
     }
