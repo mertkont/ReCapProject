@@ -1,17 +1,7 @@
-using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.IO;
-using System.Runtime.Remoting;
-using System.Threading.Tasks;
 using Business.Abstract;
-using Core.Utilities.Helpers.FileHelper;
 using Entities.Concrete;
-using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Razor.Language;
-using Newtonsoft.Json;
 
 namespace WebAPI.Controllers
 {

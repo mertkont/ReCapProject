@@ -54,9 +54,7 @@
 /home/mert/Desktop/Project/ReCapProject/Entities/bin/Debug/netcoreapp3.1/Entities.dll
 /home/mert/Desktop/Project/ReCapProject/Entities/bin/Debug/netcoreapp3.1/Entities.pdb
 /home/mert/Desktop/Project/ReCapProject/Entities/bin/Debug/netcoreapp3.1/Core.dll
-/home/mert/Desktop/Project/ReCapProject/Entities/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Http.Features.dll
 /home/mert/Desktop/Project/ReCapProject/Entities/bin/Debug/netcoreapp3.1/Core.pdb
-/home/mert/Desktop/Project/ReCapProject/Entities/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Http.Features.xml
 /home/mert/Desktop/Project/ReCapProject/Entities/obj/Debug/netcoreapp3.1/Entities.csproj.AssemblyReference.cache
 /home/mert/Desktop/Project/ReCapProject/Entities/obj/Debug/netcoreapp3.1/Entities.GeneratedMSBuildEditorConfig.editorconfig
 /home/mert/Desktop/Project/ReCapProject/Entities/obj/Debug/netcoreapp3.1/Entities.AssemblyInfoInputs.cache

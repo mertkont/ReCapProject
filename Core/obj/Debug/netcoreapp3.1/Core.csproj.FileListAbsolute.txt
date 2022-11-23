@@ -41,13 +41,10 @@
 /home/mert/Desktop/Project/ReCapProject/Core/bin/Debug/netcoreapp3.1/Core.deps.json
 /home/mert/Desktop/Project/ReCapProject/Core/bin/Debug/netcoreapp3.1/Core.dll
 /home/mert/Desktop/Project/ReCapProject/Core/bin/Debug/netcoreapp3.1/Core.pdb
-/home/mert/Desktop/Project/ReCapProject/Core/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Http.Features.dll
-/home/mert/Desktop/Project/ReCapProject/Core/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Http.Features.xml
 /home/mert/Desktop/Project/ReCapProject/Core/obj/Debug/netcoreapp3.1/Core.csproj.AssemblyReference.cache
 /home/mert/Desktop/Project/ReCapProject/Core/obj/Debug/netcoreapp3.1/Core.GeneratedMSBuildEditorConfig.editorconfig
 /home/mert/Desktop/Project/ReCapProject/Core/obj/Debug/netcoreapp3.1/Core.AssemblyInfoInputs.cache
 /home/mert/Desktop/Project/ReCapProject/Core/obj/Debug/netcoreapp3.1/Core.AssemblyInfo.cs
 /home/mert/Desktop/Project/ReCapProject/Core/obj/Debug/netcoreapp3.1/Core.csproj.CoreCompileInputs.cache
-/home/mert/Desktop/Project/ReCapProject/Core/obj/Debug/netcoreapp3.1/Core.csproj.CopyComplete
 /home/mert/Desktop/Project/ReCapProject/Core/obj/Debug/netcoreapp3.1/Core.dll
 /home/mert/Desktop/Project/ReCapProject/Core/obj/Debug/netcoreapp3.1/Core.pdb

@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using Autofac;
 using Autofac.Extensions.DependencyInjection;
 using Business.DependencyResolvers.Autofac;
+using Microsoft.AspNetCore.Http;
 
 namespace WebAPI
 {

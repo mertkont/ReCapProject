@@ -50,23 +50,19 @@
           "dependencies": {
             "Autofac": {
               "target": "Package",
-              "version": "[6.1.0, )"
-            },
-            "Autofac.Extensions.DependencyInjection": {
-              "target": "Package",
-              "version": "[7.2.0, )"
+              "version": "[6.4.0, )"
             },
             "Autofac.Extras.DynamicProxy": {
               "target": "Package",
-              "version": "[6.0.0, )"
+              "version": "[6.0.1, )"
             },
             "FluentValidation": {
               "target": "Package",
-              "version": "[9.5.1, )"
+              "version": "[11.2.2, )"
             },
             "Microsoft.AspNetCore.Http.Features": {
               "target": "Package",
-              "version": "[6.0.0-preview.4.21253.5, )"
+              "version": "[5.0.10, )"
             }
           },
           "imports": [
@@ -125,23 +121,47 @@
           "dependencies": {
             "Autofac": {
               "target": "Package",
-              "version": "[6.1.0, )"
-            },
-            "Autofac.Extensions.DependencyInjection": {
-              "target": "Package",
-              "version": "[7.2.0, )"
+              "version": "[6.4.0, )"
             },
             "Autofac.Extras.DynamicProxy": {
               "target": "Package",
-              "version": "[6.0.0, )"
+              "version": "[6.0.1, )"
             },
             "FluentValidation": {
               "target": "Package",
-              "version": "[9.5.1, )"
+              "version": "[11.2.2, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.2.2, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.2.2, )"
+            },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[3.1.11, )"
+              "version": "[5.0.13, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.25.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.25.0, )"
             }
           },
           "imports": [
@@ -207,7 +227,11 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[3.1.11, )"
+              "version": "[5.0.13, )"
+            },
+            "Remotion.Linq": {
+              "target": "Package",
+              "version": "[2.2.0, )"
             }
           },
           "imports": [
@@ -325,9 +349,17 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
-            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+            "Autofac.Extensions.DependencyInjection": {
               "target": "Package",
-              "version": "[3.1.5, )"
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.31, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
             }
           },
           "imports": [
