@@ -9,6 +9,7 @@ using Core.Utilities.Results;
 using DataAccess.Abstract;
 using DataAccess.Concrete.EntityFramework;
 using Entities.Concrete;
+using Entities.DTOs;
 using Microsoft.EntityFrameworkCore.Metadata.Internal;
 
 namespace Business.Concrete
@@ -30,6 +31,11 @@ namespace Business.Concrete
         public IDataResult<Rental> GetById(int id)
         {
             return new SuccessDataResult<Rental>(_rentalDal.Get(r => r.RentalId == id));
+        }
+
+        public IDataResult<List<RentalsDto>> GetRentals()
+        {
+            return new SuccessDataResult<List<RentalsDto>>(_rentalDal.GetRentals());
         }
 
         [ValidationAspect(typeof(RentalValidator))]

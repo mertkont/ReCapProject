@@ -38,6 +38,11 @@ namespace Business.Concrete
             return new SuccessDataResult<List<CarDetail3Dto>>(_carDal.GetCars());
         }
 
+        public IDataResult<List<CarDetail4Dto>> GetCarsWithBrandColorName()
+        {
+            return new SuccessDataResult<List<CarDetail4Dto>>(_carDal.GetCarDetail4Dtos());
+        }
+
         [ValidationAspect(typeof(CarValidator))]
         public IResult Add(Car car)
         {

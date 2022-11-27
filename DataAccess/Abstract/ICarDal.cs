@@ -11,5 +11,6 @@ namespace DataAccess.Abstract
     {
         List<Car> GetById(Expression<Func<Car, bool>> filter, int id);
         List<CarDetail3Dto> GetCars();
+        List<CarDetail4Dto> GetCarDetail4Dtos();
     }
 }

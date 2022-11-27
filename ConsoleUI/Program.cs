@@ -31,7 +31,7 @@ namespace ConsoleUI
 
             // TripleTableJoin();
 
-            RentCar();
+            // RentCar();
         }
 
         private static void RentCar()
