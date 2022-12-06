@@ -43,6 +43,16 @@ namespace Business.Concrete
             return new SuccessDataResult<List<CarDetail4Dto>>(_carDal.GetCarDetail4Dtos());
         }
 
+        public IDataResult<List<CarDetail5Dto>> GetCarsByBrandId(Expression<Func<CarDetail5Dto, bool>> filter, int brandId)
+        {
+            return new SuccessDataResult<List<CarDetail5Dto>>(_carDal.GetCarsByBrandId(c => c.BrandId == brandId, brandId));
+        }
+
+        public IDataResult<List<CarDetail5Dto>> GetCarsByColorId(Expression<Func<CarDetail5Dto, bool>> filter, int colorId)
+        {
+            return new SuccessDataResult<List<CarDetail5Dto>>(_carDal.GetCarsByColorId(c => c.ColorId == colorId, colorId));
+        }
+
         [ValidationAspect(typeof(CarValidator))]
         public IResult Add(Car car)
         {

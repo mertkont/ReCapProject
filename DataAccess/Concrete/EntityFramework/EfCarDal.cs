@@ -6,6 +6,7 @@ using Core.DataAccess.EntityFramework;
 using DataAccess.Abstract;
 using Entities.Concrete;
 using Entities.DTOs;
+using Microsoft.AspNetCore.SignalR;
 
 namespace DataAccess.Concrete.EntityFramework
 {
@@ -36,6 +37,32 @@ namespace DataAccess.Concrete.EntityFramework
                     join j in context.Colors on c.ColorId equals j.ColorId
                     join b in context.Brands on c.BrandId equals b.BrandId
                     select new CarDetail4Dto { Id = c.Id, BrandName = b.BrandName, ColorName = j.ColorName, Description = c.Description, DailyPrice = c.DailyPrice, ModelYear = c.ModelYear};
+                return result.ToList();
+            }
+        }
+
+        public List<CarDetail5Dto> GetCarsByBrandId(Expression<Func<Car, bool>> filter, int brandId)
+        {
+            using (CarRentalContext context = new CarRentalContext())
+            {
+                var result = from c in context.Cars
+                    join j in context.Colors on c.ColorId equals j.ColorId
+                    join b in context.Brands on c.BrandId equals b.BrandId
+                    where b.BrandId == brandId
+                    select new CarDetail5Dto { Id = c.Id, BrandName = b.BrandName, ColorName = j.ColorName, Description = c.Description, DailyPrice = c.DailyPrice, ModelYear = c.ModelYear, BrandId = c.BrandId, ColorId = c.ColorId};
+                return result.ToList();
+            }
+        }
+
+        public List<CarDetail5Dto> GetCarsByColorId(Expression<Func<Car, bool>> filter, int colorId)
+        {
+            using (CarRentalContext context = new CarRentalContext())
+            {
+                var result = from c in context.Cars
+                    join j in context.Colors on c.ColorId equals j.ColorId
+                    join b in context.Brands on c.BrandId equals b.BrandId
+                    where c.ColorId == colorId
+                    select new CarDetail5Dto { Id = c.Id, BrandName = b.BrandName, ColorName = j.ColorName, Description = c.Description, DailyPrice = c.DailyPrice, ModelYear = c.ModelYear, BrandId = c.BrandId, ColorId = c.ColorId};
                 return result.ToList();
             }
         }

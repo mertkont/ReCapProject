@@ -1,3 +1,8 @@
+using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq.Expressions;
+using System.Net;
 using Microsoft.AspNetCore.Http;
 
 namespace Core.Utilities.Helpers.FileHelper

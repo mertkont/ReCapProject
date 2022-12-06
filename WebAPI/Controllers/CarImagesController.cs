@@ -1,7 +1,11 @@
+using System;
 using Business.Abstract;
+using Business.Constants;
+using DataAccess.Concrete.EntityFramework;
 using Entities.Concrete;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.IdentityModel.Tokens;
 
 namespace WebAPI.Controllers
 {
@@ -74,6 +78,33 @@ namespace WebAPI.Controllers
             }
 
             return BadRequest(result);
+        }
+
+        [HttpGet("getbycarid")]
+        public IActionResult GetByCarId(int carId)
+        {
+            var result = _carImageService.GetByCarId(carId);
+            if (result.Success)
+            {
+                return Ok(result);
+            }
+
+            return BadRequest(result);
+        }
+        
+        [HttpGet("getimages")]
+        public IActionResult GetImages(int carId)
+        {
+            foreach (var cars in _carImageService.GetAll().Data)
+            {
+                if (cars.CarId == carId)
+                {
+                    Byte[] b = System.IO.File.ReadAllBytes(PathConstants.ImagesPath + cars.ImagePath);
+                    return File(b, "image/jpeg");
+                }
+            }
+
+            return BadRequest("başaramadık");
         }
     }
 }

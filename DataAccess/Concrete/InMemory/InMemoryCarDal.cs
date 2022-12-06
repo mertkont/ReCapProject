@@ -46,6 +46,16 @@ namespace DataAccess.Concrete.InMemory
             throw new NotImplementedException();
         }
 
+        public List<CarDetail5Dto> GetCarsByBrandId(Expression<Func<Car, bool>> filter, int brandId)
+        {
+            throw new NotImplementedException();
+        }
+
+        public List<CarDetail5Dto> GetCarsByColorId(Expression<Func<Car, bool>> filter, int colorId)
+        {
+            throw new NotImplementedException();
+        }
+
         public Car Get(Expression<Func<Car, bool>> filter)
         {
             throw new NotImplementedException();

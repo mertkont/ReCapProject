@@ -1,5 +1,6 @@
 ﻿using Core.Entities.Concrete;
 using Entities.Concrete;
+using Entities.DTOs;
 using Microsoft.EntityFrameworkCore;
 
 namespace DataAccess.Concrete.EntityFramework
@@ -8,7 +9,7 @@ namespace DataAccess.Concrete.EntityFramework
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"Server=localhost;Database=master;User ID=sa;Password=your_password");
+            optionsBuilder.UseSqlServer(@"Server=localhost;Database=master;User ID=sa;Password=m.10112958984");
             optionsBuilder.EnableSensitiveDataLogging();
         }
         public DbSet<Car> Cars { get; set; }
