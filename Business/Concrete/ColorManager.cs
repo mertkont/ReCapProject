@@ -43,5 +43,11 @@ namespace Business.Concrete
             _colorDal.Add(color);
             return new SuccessResult(Messages.CarAdded);
         }
+        
+        public IResult Update(Color color)
+        {
+            _colorDal.Update(color);
+            return new Result(true, Messages.CarUpdated);
+        }
     }
 }

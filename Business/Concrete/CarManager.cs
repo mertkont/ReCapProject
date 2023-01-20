@@ -59,5 +59,11 @@ namespace Business.Concrete
             _carDal.Add(car);
             return new SuccessResult(Messages.CarAdded);
         }
+        
+        public IResult Update(Car car)
+        {
+            _carDal.Update(car);
+            return new Result(true, Messages.CarUpdated);
+        }
     }
 }

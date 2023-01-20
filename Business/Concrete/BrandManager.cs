@@ -44,5 +44,11 @@ namespace Business.Concrete
             _brandDal.Add(brand);
             return new SuccessResult(Messages.CarAdded);
         }
+        
+        public IResult Update(Brand brand)
+        {
+            _brandDal.Update(brand);
+            return new Result(true, Messages.CarUpdated);
+        }
     }
 }
